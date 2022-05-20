@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+main{
+  @font-face {
+    font-family: 'Lato', sans-serif;
+      
+    }
+}
+table{
+    border: solid 2px #26768D;
+    width: 280px;
+    height: 100px;
+    text-align: center;
+    color: #082952;
+    font-size: 20px;
+    border-radius: 15px;
+    padding:10px;
+    font-family: 'Lato', sans-serif;
+ 
+}
+
+#linhas{
+    margin-top: 10px;
+    color: #082952;
+   padding-left: 43px;
+    text-align: justify;
+    padding: auto;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+tr:nth-child(even) {background: #a2cbd6 }
+tr td {
+    font-family: 'Lato', sans-serif;
+}
