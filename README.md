@@ -1,0 +1,1 @@
+# tabela_e_parceiros
