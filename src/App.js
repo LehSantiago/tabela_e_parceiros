@@ -1,14 +1,12 @@
-
+import React from 'react';
 import './App.css';
-import Tabela from './Tabela'
+import Mercado from './mercado';
+
 
 function App() {
   return (
-    <div >
+   <Mercado />
 
-      <Tabela />
-    </div>
   );
 }
-
 export default App;
